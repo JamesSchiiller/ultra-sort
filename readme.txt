@@ -1,5 +1,4 @@
 # ultra-sort
 
-To run the program, 
-
+To run program, 
 $ ruby prog.rb
